@@ -4,11 +4,24 @@
 
 The LinkedIn Job Scraper is a Python script designed to scrape job listings from LinkedIn using Selenium WebDriver. It automates the process of scrolling through job listings and extracting relevant information such as company name and job title.
 
-Features
-Job Listing Scraping: The script navigates to a LinkedIn job search page and scrapes job listings based on the specified search criteria.
-Dynamic Page Handling: It handles dynamically loaded content by scrolling through the page to load additional job listings.
-Data Extraction: Relevant information such as company name and job title is extracted from the job listings.
-Data Export: The extracted data is saved to a CSV file for further analysis or processing.
+## Features
+
+### Job Listing Scraping: 
+
+The script navigates to a LinkedIn job search page and scrapes job listings based on the specified search criteria.
+
+### Dynamic Page Handling: 
+
+It handles dynamically loaded content by scrolling through the page to load additional job listings.
+
+### Data Extraction: 
+
+Relevant information such as company name and job title is extracted from the job listings.
+
+### Data Export: 
+
+The extracted data is saved to a CSV file for further analysis or processing.
+
 Technologies Used
 Python: The primary programming language used for scripting.
 Selenium WebDriver: Utilized for web automation and interaction with the LinkedIn job search page.
