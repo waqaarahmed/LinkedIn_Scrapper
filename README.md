@@ -40,12 +40,27 @@ Used for data manipulation and organization.
 
 Specific web driver for Chrome browser used by Selenium.
 
-Usage
-Setup Environment: Install Python and necessary libraries (selenium, pandas) if not already installed.
-Install WebDriver: Download and install the Chrome WebDriver compatible with your Chrome browser version.
-Run Script: Execute the provided Python script (linkedin_scrapper.py) in a Python environment.
-Wait for Execution: The script will automate the process of navigating to LinkedIn, scraping job listings, and saving the data to a CSV file.
-Data Analysis: Analyze the extracted job data stored in the CSV file (linkedin.csv) using tools like Excel, Python, or any data analysis tool of your choice.
+## Usage
+
+#### Setup Environment: 
+
+Install Python and necessary libraries (`selenium`, `pandas`) if not already installed.
+
+#### Install WebDriver: 
+
+Download and install the Chrome WebDriver compatible with your Chrome browser version.
+
+#### Run Script: 
+
+Execute the provided Python script (`linkedin_scrapper.py`) in a Python environment.
+
+#### Wait for Execution: 
+
+The script will automate the process of navigating to LinkedIn, scraping job listings, and saving the data to a CSV file.
+
+#### Data Analysis: 
+
+Analyze the extracted job data stored in the CSV file (linkedin.csv) using tools like Excel, Python, or any data analysis tool of your choice.
 Customization
 Search Criteria: Modify the url variable in the script to specify different search criteria (e.g., job title, location) for LinkedIn job listings.
 Number of Listings: Adjust the n variable to scrape a specific number of job listings from the search results.
