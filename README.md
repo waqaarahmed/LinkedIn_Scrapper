@@ -1,5 +1,7 @@
 # LinkedIn Job Scraper
-Overview
+
+## Overview
+
 The LinkedIn Job Scraper is a Python script designed to scrape job listings from LinkedIn using Selenium WebDriver. It automates the process of scrolling through job listings and extracting relevant information such as company name and job title.
 
 Features
